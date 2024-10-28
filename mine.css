@@ -1,0 +1,69 @@
+.Bee{
+  color: #095610;
+  font-family: fantasy;
+  font-size: 20.5px;
+
+   .lee{
+    color:forestgreen;
+    font-family:fantasy;
+    font-size: 20.5px;
+  }
+  .lep{
+    color:#fcbe0b;
+    font-family:fantasy;
+    font-size: 20.5px;
+    border:dotted;
+  }
+  .snow{
+    color:#01ff4c;
+    font-family:fantasy;
+    font-size: 20.5px; 
+    border:dashed;
+  }
+
+  .monkey{
+    color:#0752bc;
+    font-family:fantasy;
+    font-size: 20.5px; 
+    border:solid;
+  }
+  .Rihe{
+    color:#01fff8;
+    font-family:fantasy;
+    font-size: 20.5px; 
+    border:dashed; 
+  }
+  .sum{ color:#903076;
+    font-family:fantasy;
+    font-size: 20.5px; 
+    border:dotted; }
+
+  .Doll{
+    color:#00ffd0;
+    font-family:fantasy;
+    font-size: 20.5px; 
+    border:solid; 
+  }
+  .Img{
+    color: white;
+    font-size: 40.5px; 
+    border:solid;  
+  }
+  body {
+    font-family: Verdana, sans-serif;
+    background-color: #6d986d
+  }
+  h2 {
+    color: #39df8c;
+  } 
+  h3 {
+    color: #0cb53e;
+    margin-bottom: 10px; 
+  img {
+    width: auto;
+    height: 200px;
+    border: 2px solid #003E1F;
+    flex-grow: 2;
+  }
+
+
