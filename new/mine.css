@@ -3,62 +3,80 @@
   font-family: fantasy;
   font-size: 20.5px;
   flex-grow: 3;
+  box-align: left ;
 }
    .lee{
-    color:forestgreen;
+    color:rgb(150, 0, 0);
     font-family:fantasy;
     font-size: 20.5px;
     flex-grow: 3;
+    background-color: ghostwhite;
+    border: solid;
   }
   .lep{
-    color:#fcbe0b;
+    color:#5f4700;
     font-family:fantasy;
     font-size: 20.5px;
     border:dotted;
     flex-grow: 3;
+    background-color: ghostwhite;
+    border: solid;
   }
   .snow{
-    color:#01ff4c;
+    color:#015319;
     font-family:fantasy;
     font-size: 20.5px; 
     border:dashed;
     flex-grow: 3;
+    background-color: ghostwhite;
+    border: solid;
   }
 
   .monkey{
-    color:#0752bc;
+    color:#000b6d;
     font-family:fantasy;
     font-size: 20.5px; 
     border:solid;
     flex-grow: 3;
+    background-color: ghostwhite;
+    border: solid;
   }
   .Rihe{
-    color:#01fff8;
+    color:#015351;
     font-family:fantasy;
     font-size: 20.5px; 
     border:dashed; 
     flex-grow: 3;
+    background-color: ghostwhite;
+    border: solid;
   }
-  .sum{ color:#903076;
+  .sum{ color:#490036;
     font-family:fantasy;
     font-size: 20.5px; 
     border:dotted;
     flex-grow: 3;
+    background-color: ghostwhite;
+    border: solid;
   }
 
   .Doll{
-    color:#00ffd0;
+    color:#000000;
     font-family:fantasy;
     font-size: 20.5px; 
     border:solid;
     flex-grow: 3; 
+    background-color: ghostwhite;
+    border: solid;
   }
   .Img{
     color: white;
     font-size: 40.5px; 
     border:solid; 
     flex-grow: 3; 
-  }
+    width:250px;
+    height:300px ;
+    background-color: ghostwhite;
+    border: solid;
   body {
     font-family: Verdana, sans-serif;
     background-color: #6d986d
@@ -77,5 +95,14 @@
     border: 2px solid #003E1F;
     flex-grow: 2;
   }
+  .Save{
+    font-family:fantasy;
+    font-size: 20.5px; 
+    border:solid;
+    flex-grow: 3;  
+    box-align: Right;
+    line-break: middle;
+    color: #fcbe0b;
+  } 
 
 
