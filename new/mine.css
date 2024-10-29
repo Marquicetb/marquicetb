@@ -2,23 +2,27 @@
   color: #095610;
   font-family: fantasy;
   font-size: 20.5px;
+  flex-grow: 3;
 }
    .lee{
     color:forestgreen;
     font-family:fantasy;
     font-size: 20.5px;
+    flex-grow: 3;
   }
   .lep{
     color:#fcbe0b;
     font-family:fantasy;
     font-size: 20.5px;
     border:dotted;
+    flex-grow: 3;
   }
   .snow{
     color:#01ff4c;
     font-family:fantasy;
     font-size: 20.5px; 
     border:dashed;
+    flex-grow: 3;
   }
 
   .monkey{
@@ -26,32 +30,39 @@
     font-family:fantasy;
     font-size: 20.5px; 
     border:solid;
+    flex-grow: 3;
   }
   .Rihe{
     color:#01fff8;
     font-family:fantasy;
     font-size: 20.5px; 
     border:dashed; 
+    flex-grow: 3;
   }
   .sum{ color:#903076;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:dotted; }
+    border:dotted;
+    flex-grow: 3;
+  }
 
   .Doll{
     color:#00ffd0;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:solid; 
+    border:solid;
+    flex-grow: 3; 
   }
   .Img{
     color: white;
     font-size: 40.5px; 
-    border:solid;  
+    border:solid; 
+    flex-grow: 3; 
   }
   body {
     font-family: Verdana, sans-serif;
     background-color: #6d986d
+    flex-grow: 3;
   }
   h2 {
     color: #39df8c;
