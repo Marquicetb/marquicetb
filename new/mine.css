@@ -3,7 +3,7 @@
   font-family: fantasy;
   font-size: 20.5px;
   flex-grow: 3;
-  box-align: left ;
+  align-items: center ;
 }
    .lee{
     color:rgb(150, 0, 0);
