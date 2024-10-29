@@ -17,7 +17,7 @@
     color:#5f4700;
     font-family:fantasy;
     font-size: 20.5px;
-    border:dotted;
+    
     flex-grow: 3;
     background-color: ghostwhite;
     border: solid;
@@ -26,7 +26,7 @@
     color:#015319;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:dashed;
+   
     flex-grow: 3;
     background-color: ghostwhite;
     border: solid;
@@ -36,7 +36,7 @@
     color:#000b6d;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:solid;
+    
     flex-grow: 3;
     background-color: ghostwhite;
     border: solid;
@@ -45,7 +45,7 @@
     color:#015351;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:dashed; 
+   
     flex-grow: 3;
     background-color: ghostwhite;
     border: solid;
@@ -53,7 +53,7 @@
   .sum{ color:#490036;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:dotted;
+    
     flex-grow: 3;
     background-color: ghostwhite;
     border: solid;
@@ -63,7 +63,6 @@
     color:#000000;
     font-family:fantasy;
     font-size: 20.5px; 
-    border:solid;
     flex-grow: 3; 
     background-color: ghostwhite;
     border: solid;
@@ -76,7 +75,7 @@
     width:250px;
     height:300px ;
     background-color: ghostwhite;
-    border: solid;
+    
   body {
     font-family: Verdana, sans-serif;
     background-color: #608855;
