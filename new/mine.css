@@ -30,7 +30,12 @@
     background-color: ghostwhite;
     border: solid;
   }
-
+.Tea{
+  background-color: green ;
+  height: 250px;
+  font-family:fantasy;
+  font-size: 20.5px; 
+}
   .monkey{
     color:#705400;
     font-family:fantasy;
@@ -103,5 +108,10 @@
     color: #fcbe0b;
     background-color: ghostwhite;
   } 
+. dei{
 
+background-size:200px;
+height:300px;
+width: 250px ;
+}
 
