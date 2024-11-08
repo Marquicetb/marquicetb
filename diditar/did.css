@@ -1,14 +1,3 @@
-body{
-    background-image: url("ground.png");
-}
-.level img {
 
-    transition: transform 0.3s ease;  /* Smooth zoom effect */
 
-}
-.level img:hover {
-
-    transform: scale(1.05);  /* Slightly enlarges image on hover */
-
-}
-
+    
