@@ -1,4 +1,37 @@
 ## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <!-- Favicon -->
+    <link rel="icon" href="avatar.png" type="image/png">
+    <!--Stylesheet -->
+  
+    <link rel="ppeop" href="indes.css">
+
+</head>
+<body>
+    <header>
+      <h5>thats a wonderful idea</h5>
+    </header>
+     <img src="avatar.png" alt="me">
+   <h1><p> this is a inprogress page that will document my progress and it will have a few errors because im 
+    New to coding and i have no experince with making and building a website so if there is an issuse or error 95% i am clueless on this topic
+    plus i maybe a bit slow to make or creat a digital becuase im just winging it </p></h1>
+    <h2>the links to my pages Enjoy ;0 </h2>
+    <ul>
+      <h3>la links to the pages i have made so far</h3>
+   <li> <a href="lab1.html">aura</a> </li>
+  <li> <a href="project1.html">works</a></li>
+   <li><a href="practice.html">livi</a></li>
+   <li><a href="Recipe.html">lets cook </a></li>
+   <li><a href="project2/project2.html"> cooking 2</li>
+    <li><a href="https://marquicetb.github.io/marquicetb/new/">cop</a></li>
+        </ul>
+</body>
+</html>
+
 
 <!--
 **Marquicetb/marquicetb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
