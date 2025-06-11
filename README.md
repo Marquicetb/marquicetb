@@ -15,7 +15,7 @@
     <header>
       <h5>thats a wonderful idea</h5>
     </header>
-     <img src="avatar.png" alt="me">
+     <img src="avatar.png" alt="avatra">
    <h1><p> this is a inprogress page that will document my progress and it will have a few errors because im 
     New to coding and i have no experince with making and building a website so if there is an issuse or error 95% i am clueless on this topic
     plus i maybe a bit slow to make or creat a digital becuase im just winging it </p></h1>
