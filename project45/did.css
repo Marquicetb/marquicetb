@@ -1,79 +1,84 @@
 body {
-    background-image: url("Back.png");
-    background-repeat: no-repeat;
-  }
-  p {
-    color: #edaaff;
-  }
-  h1 {
-    font-weight: bold;
-    color: #edaaff;
-  }
-  li{
-    color: #5e0d6c;
-  }
-  ul {
-    display: inline;
-    margin: 0;
-    padding: 0;
-  }
-  ul li {display: inline-block;}
-  ul li:hover {background: #d878ff;}
-  ul li:hover ul {display: block;}
-  ul li ul {
-    position:fixed relative;
-    width: 200px;
-    display: none;
-  }
-  
-  div{
-    border:2px solid; 
-    border-color: #edaaff;
-    background-color: #5e0d6c;
-  }
-  h2{
-    color:#edaaff;
-    font-weight: bold;
-    font-size: 20px;
-  }  
-  div:hover{
-    background-color: #6421bf;
-    font-size: 18px;
-   height: auto;
-    margin: 9;
-    padding: 0;
-  }
-  .wave {
-  
-    border: 1px solid #192A51;
-  
-    background-color: #a911e7;
-  
-    color: whitesmoke;
-  
-    text-align: center;
-  
-    font-size: 0.9em;
-  
-    height: 25px;
-  
-    overflow: hidden;
-  
-    width: 80%;
-  
-    margin: 10px auto;
-  
-    transition: height 0.5s ease;  /* Adjust the speed for smooth expansion */
-  
-  }
-  
-  
-  /* Expanding effect on hover */
-  
-  .wave:hover {
-  
-    height: 100px;  /* Adjust to fit content */
-  
-  }
+  background-image: url("Back.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
 
-    
+p {
+  color: #edaaff;
+}
+
+h1 {
+  font-weight: bold;
+  color: #edaaff;
+}
+
+li {
+  color: #5e0d6c;
+}
+
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+ul li:hover {
+  background: #d878ff;
+}
+
+ul li ul {
+  display: none;
+  position: absolute;
+  width: 200px;
+}
+
+div {
+  border: 2px solid #edaaff;
+  background-color: #5e0d6c;
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 90%;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #edaaff;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+div:hover {
+  background-color: #6421bf;
+  font-size: 18px;
+  height: auto;
+  margin: 9px;
+  padding: 10px;
+}
+
+.wave {
+  border: 1px solid #192A51;
+  background-color: #a911e7;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 0.9em;
+  height: 25px;
+  overflow: hidden;
+  width: 80%;
+  margin: 10px auto;
+  transition: height 0.5s ease;
+  border-radius: 8px;
+}
+
+/* Expand effect */
+.wave:hover {
+  height: 100px;
+}
