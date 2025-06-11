@@ -1,49 +1,81 @@
-## Hi there 👋
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Welcome</title>
     <!-- Favicon -->
     <link rel="icon" href="avatar.png" type="image/png">
-    <!--Stylesheet -->
-  
-    <link rel="ppeop" href="indes.css">
 
+    <!-- Styles -->
+    <style>
+        body {
+            background-color: #b0c4de; /* Light Steel Blue = bluish-gray */
+            font-family: Arial, sans-serif;
+            color: #222;
+            margin: 0;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #8ca0b3;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        img {
+            width: 150px;
+            border-radius: 10px;
+            display: block;
+            margin: 20px auto;
+        }
+
+        h1, h2, h3, p {
+            max-width: 800px;
+            margin: 0 auto 20px;
+        }
+
+        ul {
+            max-width: 800px;
+            margin: 0 auto;
+            padding-left: 20px;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #003366;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
     <header>
-      <h5>thats a wonderful idea</h5>
+        <h5>That's a wonderful idea</h5>
     </header>
-     <img src="avatar.png" alt="avatra">
-   <h1><p> this is a inprogress page that will document my progress and it will have a few errors because im 
-    New to coding and i have no experince with making and building a website so if there is an issuse or error 95% i am clueless on this topic
-    plus i maybe a bit slow to make or creat a digital becuase im just winging it </p></h1>
-    <h2>the links to my pages Enjoy ;0 </h2>
+
+    <img src="avatar.png" alt="avatar">
+
+    <h1>Hi there 👋</h1>
+
+    <p>This is an in-progress page documenting my journey. It might have a few errors since I’m new to coding and web development. I’m learning as I go, so if you see something odd, that’s probably why 😅</p>
+
+    <h2>Links to my pages – Enjoy! 😉</h2>
+
+    <h3>Pages I've made so far:</h3>
     <ul>
-      <h3>la links to the pages i have made so far</h3>
-   <li> <a href="lab1.html">aura</a> </li>
-  <li> <a href="project1.html">works</a></li>
-   <li><a href="practice.html">livi</a></li>
-   <li><a href="Recipe.html">lets cook </a></li>
-   <li><a href="project2/project2.html"> cooking 2</li>
-    <li><a href="https://marquicetb.github.io/marquicetb/new/">cop</a></li>
-        </ul>
+        <li><a href="lab1.html">Aura</a></li>
+        <li><a href="project1.html">Works</a></li>
+        <li><a href="practice.html">Livi</a></li>
+        <li><a href="Recipe.html">Let’s Cook</a></li>
+        <li><a href="project2/project2.html">Cooking 2</a></li>
+        <li><a href="https://marquicetb.github.io/marquicetb/new/">Cop</a></li>
+    </ul>
 </body>
 </html>
-
-
-<!--
-**Marquicetb/marquicetb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
