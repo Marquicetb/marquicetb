@@ -76,7 +76,7 @@
       <li><a href="Recipe.html">Let's Cook</a></li>
       <li><a href="project2/project2.html">Cooking 2</a></li>
       <li><a href="https://marquicetb.github.io/marquicetb/new/" target="_blank">Cop (GitHub Page)</a></li>
-      <li><a href="game.html">spot the differance game</a></li>
+      <li><a href="project45/game.html">spot the differance game</a></li>
     </ul>
 
   </body>
