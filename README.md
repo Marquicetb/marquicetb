@@ -70,13 +70,13 @@
 
     <h3>Pages I've made so far:</h3>
     <ul>
-        <li><a href="lab1.html"target="_blank">Aura</a></li>
-        <li><a href="project1.html"target="_blank">Works</a></li>
-        <li><a href="practice.html"target="_blank">Livi</a></li>
-        <li><a href="Recipe.html"target="_blank">Let’s Cook</a></li>
-        <li><a href="project2/project2.html"target="_blank">Cooking 2</a></li>
-        <li><a href="https://marquicetb.github.io/marquicetb/new/"target="_blank">Cop</a></li>
-        <li><a href="newrt.html target="_blank" >Spot the diff</a>
+        <li><a href="lab1.html">Aura</a></li>
+        <li><a href="project1.html">Works</a></li>
+        <li><a href="practice.html">Livi</a></li>
+        <li><a href="Recipe.html">Let's Cook</a></li>
+        <li><a href="project2/project2.html">Cooking 2</a></li>
+        <li><a href="https://marquicetb.github.io/marquicetb/new/" target="_blank">Cop (GitHub Page)</a></li>
     </ul>
+
 </body>
 </html>
