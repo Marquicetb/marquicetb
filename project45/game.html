@@ -5,6 +5,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Spot the Difference Game</title>
   <link rel="stylesheet" href="did.css" />
+    <title>Dropdown with Image</title>
+  <style>
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropbtn {
+      background-color: #b19cd9;
+      color: white;
+      padding: 10px 16px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 220px;
+      box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+      padding: 10px;
+      border-radius: 8px;
+    }
+
+    .dropdown-content img {
+      width: 200px;
+      height: auto;
+      display: block;
+      margin: 10px 0;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  </style>
 </head>
 
 <body>
@@ -51,6 +90,7 @@
          onmouseover="this.src='alt2.png.png';"
          onmouseout="this.src='plan2,png.png';" />
   </div>
+  
 
 </body>
 </html>
